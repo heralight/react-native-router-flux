@@ -49,8 +49,8 @@
     "react-test-renderer": "16.0.0"
   },
   "peerDependencies": {
-    "mobx": "3.x|4.x",
-    "mobx-react": "4.x|5.x",
+    "mobx": "3.x || 4.x",
+    "mobx-react": "4.x || 5.x",
     "react": "*",
     "react-native": "*"
   },
